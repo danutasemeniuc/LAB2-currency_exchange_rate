@@ -1,0 +1,8 @@
+2025-09-27T12:06:52.954193 - No rate found in response: {'success': False, 'error': {'code': 101, 'type': 'missing_access_key', 'info': 'You have not supplied an API Access Key. [Required format: access_key=YOUR_ACCESS_KEY]'}}
+2025-09-27T12:06:52.956575 - No data received for USD-EUR on 2025-01-01
+2025-09-27T12:06:57.545892 - No rate found in response: {'success': False, 'error': {'code': 101, 'type': 'missing_access_key', 'info': 'You have not supplied an API Access Key. [Required format: access_key=YOUR_ACCESS_KEY]'}}
+2025-09-27T12:06:57.547709 - No data received for USD-EUR on 2025-01-01
+2025-09-27T12:08:59.667301 - No rate found in response: {'success': False, 'error': {'code': 101, 'type': 'missing_access_key', 'info': 'You have not supplied an API Access Key. [Required format: access_key=YOUR_ACCESS_KEY]'}}
+2025-09-27T12:08:59.670189 - No data received for USD-EUR on 2025-01-01
+2025-09-27T12:10:15.622588 - No rate found in response: {'success': False, 'error': {'code': 101, 'type': 'missing_access_key', 'info': 'You have not supplied an API Access Key. [Required format: access_key=YOUR_ACCESS_KEY]'}}
+2025-09-27T12:10:15.624578 - No data received for USD-EUR on 2025-01-01
